@@ -10,6 +10,7 @@ git clone https://github.com/smeets/not-so-bright
 cd not-so-bright
 :: make works as well
 nmake
+not-so-bright.exe
 ```
 
 ## details
